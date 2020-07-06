@@ -57,7 +57,7 @@
     "@angular/platform-browser": "^10.0.0-rc.2",
     "@types/googlemaps": "^3.39.3",
     "@types/youtube": "^0.0.38",
-    "@webcomponents/custom-elements": "^1.1.0",
+    "@webcomponents/custom-elements": "^1.4.1",
     "core-js": "^2.6.9",
     "material-components-web": "7.0.0-canary.7461aad68.0",
     "rxjs": "^6.5.3",
