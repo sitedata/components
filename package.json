@@ -55,7 +55,7 @@
     "@angular/elements": "^10.0.0-rc.2",
     "@angular/forms": "^10.0.0-rc.2",
     "@angular/platform-browser": "^10.0.0-rc.2",
-    "@types/googlemaps": "^3.39.3",
+    "@types/googlemaps": "^3.39.7",
     "@types/youtube": "^0.0.38",
     "@webcomponents/custom-elements": "^1.1.0",
     "core-js": "^2.6.9",
